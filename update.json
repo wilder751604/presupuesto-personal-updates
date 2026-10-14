@@ -1,6 +1,6 @@
 {
-  "versionName": "3.0.1",
-  "build": 5,
+  "versionName": "3.0.2",
+  "build": 6,
   "apkUrl": "https://github.com/wilder751604/presupuesto-personal-updates/releases/latest/download/PresupuestoPersonal.apk",
-  "notes": "Hay una nueva actualización disponible para Presupuesto Personal. Actualiza ahora para obtener la versión más reciente."
+  "notes": "¡Nueva actualización de Presupuesto Personal! Versión 3.0.2. Se incorpora la sección Informes y Exportación, que permite analizar ingresos, gastos, presupuestos, préstamos y movimientos financieros, con descarga en PDF y Excel."
 }
